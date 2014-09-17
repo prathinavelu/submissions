@@ -7,7 +7,8 @@
 
 
 <h4> My model predicts the box office gross using linear regression with the following factors: </h4>
-    -Box Office Gross of the Original Movie
-    -(Years Between Releases)**n for n up to 7
+
+-Box Office Gross of the Original Movie
+-(Years Between Releases)**n for n up to 7
 
 ![](./img/model_1_predictions.png)
