@@ -8,10 +8,10 @@
 
 <h4> Model predicts the box office gross using regression with the following factors: </h4>
 
-*Box Office Gross of the Original Movie
+* Box Office Gross of the Original Movie
 
-*(Years Between Releases)^n (n<8)
+* (Years Between Releases)^n   (for n<8)
 
-<h3> The plot shows the observed vs. model-predicted outcomes on a test set
+<h4> Plot shows observed vs. model-predicted outcomes using a test set </h4>
 
 ![](./img/model_1_predictions.png)
